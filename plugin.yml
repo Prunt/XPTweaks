@@ -1,0 +1,5 @@
+name: XPTweaks
+version: 1.0
+description: Lightweight plugin that adds extra customization for everything related to XP.
+author: Prunt
+main: me.prunt.xptweaks.Main
